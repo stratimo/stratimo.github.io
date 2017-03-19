@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to Stratimo GitHub
 
-You can use the [editor on GitHub](https://github.com/stratimo/stratimo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## YouTube-Programming-And-Coding
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Top 10 channels on YouTube for Programming and Coding
+
+<img src="http://i.imgur.com/DxYKpoo.png"  width="80%"></img>
+
+
+Pogledajte snimak na youtubu:
+
+[![Video](http://img.youtube.com/vi/Q0IXMoXDa74/0.jpg)](http://www.youtube.com/watch?v=Q0IXMoXDa74)
+
 
 ### Markdown
 
