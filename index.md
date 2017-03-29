@@ -1,4 +1,4 @@
-# GitEasy
+# [GitEasy](https://stratimo.github.io/GitEasy/)
 
 ### Easy upload your files on github
 
@@ -10,7 +10,7 @@ Watch me:
 
 -------------------------------------------------------------
 
-# YouTube-Programming-And-Coding
+# [YouTube-Programming-And-Coding](https://stratimo.github.io/YouTube-Programming-And-Coding/)
 
 Top 10 channels on YouTube for Programming and Coding
 
@@ -27,7 +27,7 @@ Top 10 channels on YouTube for Programming and Coding
 
 -------------------------------------------------
 
-# Precica-Shortcut
+# [Precica-Shortcut](https://stratimo.github.io/Precica-Shortcut/)
 
 Jednostavno za koriscenje. 
 
