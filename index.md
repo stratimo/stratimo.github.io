@@ -1,3 +1,15 @@
+# GitEasy
+
+### Easy upload your files on github
+
+Watch me:
+
+[![Video](http://img.youtube.com/vi/pvXakzJsONQ/0.jpg)](http://www.youtube.com/watch?v=pvXakzJsONQ)
+
+### See me [GitEasy](https://github.com/stratimo/GitEasy)
+
+-------------------------------------------------------------
+
 # YouTube-Programming-And-Coding
 
 Top 10 channels on YouTube for Programming and Coding
@@ -13,7 +25,7 @@ Top 10 channels on YouTube for Programming and Coding
 
 ### Pogledaj code [YouTube-Programming-And-Coding](https://github.com/stratimo/YouTube-Programming-And-Coding/)
 
-
+-------------------------------------------------
 
 # Precica-Shortcut
 
